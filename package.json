@@ -25,6 +25,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react-native-alphabetlistview": "0.2.0",
     "react-native-search-box": "git+https://github.com/ElekenAgency/react-native-search-box.git"
   }
